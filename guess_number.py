@@ -17,4 +17,3 @@ while True:
     else:
         print(f"你猜的數字比答案小,你已經猜了{time+1}次")
     time += 1
-print("這是你猜的第3次")
